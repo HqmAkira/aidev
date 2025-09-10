@@ -1,0 +1,10 @@
+wandb_version: 1
+
+batch_size:
+  value: 16
+hidden_dense_shape:
+  value: 8
+input_dense_shape:
+  value: 8
+optimizer:
+  value: rmsprop

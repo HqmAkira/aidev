@@ -1,0 +1,16 @@
+{"time":"2025-09-05T14:33:57.70522+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/qiminghe/Code/Python/aidev/Lesson16_Kaggle/wandb/run-20250905_143357-g3g9rk2a/logs/debug-core.log"}
+{"time":"2025-09-05T14:33:58.224098+09:00","level":"INFO","msg":"created new stream","id":"g3g9rk2a"}
+{"time":"2025-09-05T14:33:58.224131+09:00","level":"INFO","msg":"stream: started","id":"g3g9rk2a"}
+{"time":"2025-09-05T14:33:58.224146+09:00","level":"INFO","msg":"handler: started","stream_id":"g3g9rk2a"}
+{"time":"2025-09-05T14:33:58.224256+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"g3g9rk2a"}
+{"time":"2025-09-05T14:33:58.224424+09:00","level":"INFO","msg":"sender: started","stream_id":"g3g9rk2a"}
+{"time":"2025-09-05T14:33:58.604118+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-09-05T14:34:14.445848+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-09-05T14:34:14.445882+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-09-05T14:34:15.455555+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 1-353","runtime_seconds":1.256373},{"desc":"uploading output.log","runtime_seconds":0.403436958},{"desc":"uploading wandb-summary.json","runtime_seconds":0.403338417,"progress":"300B/300B"}],"total_operations":3}}
+{"time":"2025-09-05T14:34:16.334924+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-09-05T14:34:16.805161+09:00","level":"INFO","msg":"stream: closing","id":"g3g9rk2a"}
+{"time":"2025-09-05T14:34:16.805272+09:00","level":"INFO","msg":"handler: closed","stream_id":"g3g9rk2a"}
+{"time":"2025-09-05T14:34:16.805287+09:00","level":"INFO","msg":"sender: closed","stream_id":"g3g9rk2a"}
+{"time":"2025-09-05T14:34:16.805305+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"g3g9rk2a"}
+{"time":"2025-09-05T14:34:16.805507+09:00","level":"INFO","msg":"stream: closed","id":"g3g9rk2a"}

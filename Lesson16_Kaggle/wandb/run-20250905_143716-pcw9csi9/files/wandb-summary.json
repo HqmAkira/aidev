@@ -1,0 +1,1 @@
+{"_wandb":{"runtime":8},"epoch/loss":0.6583308577537537,"epoch/accuracy":0.6260032057762146,"epoch/learning_rate":0.009999999776482582,"epoch/val_loss":0.6655302047729492,"_timestamp":1.7570506448574562e+09,"epoch/epoch":136,"_step":136,"_runtime":8.308195,"epoch/val_accuracy":0.6268656849861145}

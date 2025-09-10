@@ -1,0 +1,43 @@
+{
+  "os": "macOS-15.3.1-arm64-arm-64bit",
+  "python": "CPython 3.12.10",
+  "startedAt": "2025-09-05T05:39:28.216366Z",
+  "program": "/Users/qiminghe/Code/Python/aidev/Lesson16_Kaggle/AI_A03_データコンペティションとMLOps.ipynb",
+  "codePath": "Lesson16_Kaggle/AI_A03_データコンペティションとMLOps.ipynb",
+  "git": {
+    "remote": "https://github.com/HqmAkira/aidev.git",
+    "commit": "03ddcd5bb34e48f6c0c566ac0bd01bc3af36dda2"
+  },
+  "email": "qhe@lycorp.co.jp",
+  "root": "/Users/qiminghe/Code/Python/aidev/Lesson16_Kaggle",
+  "host": "lymMFV71QLHQK",
+  "executable": "/Users/qiminghe/Code/Python/aidev/.venv/bin/python",
+  "codePathLocal": "AI_A03_データコンペティションとMLOps.ipynb",
+  "cpu_count": 12,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "137859960832"
+    },
+    "/System/Volumes/Data": {
+      "total": "494384795648",
+      "used": "137859960832"
+    }
+  },
+  "memory": {
+    "total": "51539607552"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 12
+  },
+  "apple": {
+    "name": "Apple M4 Pro",
+    "ecpuCores": 4,
+    "pcpuCores": 8,
+    "gpuCores": 16,
+    "memoryGb": 48,
+    "ramTotalBytes": "51539607552"
+  }
+}

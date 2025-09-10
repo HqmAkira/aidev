@@ -1,0 +1,16 @@
+{"time":"2025-09-05T14:37:54.825439+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/qiminghe/Code/Python/aidev/Lesson16_Kaggle/wandb/run-20250905_143754-hsqbdjfr/logs/debug-core.log"}
+{"time":"2025-09-05T14:38:05.14341+09:00","level":"INFO","msg":"created new stream","id":"hsqbdjfr"}
+{"time":"2025-09-05T14:38:05.143569+09:00","level":"INFO","msg":"stream: started","id":"hsqbdjfr"}
+{"time":"2025-09-05T14:38:05.143598+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"hsqbdjfr"}
+{"time":"2025-09-05T14:38:05.143606+09:00","level":"INFO","msg":"handler: started","stream_id":"hsqbdjfr"}
+{"time":"2025-09-05T14:38:05.143644+09:00","level":"INFO","msg":"sender: started","stream_id":"hsqbdjfr"}
+{"time":"2025-09-05T14:38:06.142808+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-09-05T14:38:13.606105+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-09-05T14:38:13.606132+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-09-05T14:38:14.6092+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":1.002628542}],"total_operations":1}}
+{"time":"2025-09-05T14:38:17.857126+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-09-05T14:38:18.623991+09:00","level":"INFO","msg":"stream: closing","id":"hsqbdjfr"}
+{"time":"2025-09-05T14:38:18.624037+09:00","level":"INFO","msg":"handler: closed","stream_id":"hsqbdjfr"}
+{"time":"2025-09-05T14:38:18.624057+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hsqbdjfr"}
+{"time":"2025-09-05T14:38:18.624071+09:00","level":"INFO","msg":"sender: closed","stream_id":"hsqbdjfr"}
+{"time":"2025-09-05T14:38:18.624288+09:00","level":"INFO","msg":"stream: closed","id":"hsqbdjfr"}
